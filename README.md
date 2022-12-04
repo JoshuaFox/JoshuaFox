@@ -9,4 +9,4 @@
 - [SafeScrub](https://github.com/doitintl/safescrub): An earlier versiom of CloudBlaster, and largely replaced by it, but  with the advantage of being all-bash for full code visibility as you run it.
 - [CloudBlaster](https://github.com/doitintl/CloudBlaster) safely deletes GCP resources to keep dev/testing projects clean.
 - [Intercloud Throughput](https://github.com/doitintl/intercloud-throughput) measures throughput (and also latency) between different regions of Google and of AWS
-- [Quick Quickstarts](https://github.com/doitintl/QuickQuickstarts). Spin up an  environment in AWS Lambda, Google Kubernetes Enginer, or one of 7 other cloud compute technologies
+- [Quick Quickstarts](https://github.com/doitintl/QuickQuickstarts). Spin up an  environment in AWS Lambda, Google Kubernetes Engine, or one of seven other cloud compute technologies
