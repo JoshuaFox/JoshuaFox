@@ -2,7 +2,7 @@
 - My own website [joshuafox.com](joshuafox.com) has everything about me.
 - My [LinkedIn](https://www.linkedin.com/in/joshuafox/)
 
-# My Open Source Projects
+# Some of My Open Source Projects
 
 - Widely used in production,  [Iris3](https://github.com/doitintl/iris3) automatically adds labels to Google Cloud resources.
 - [ClusterCloner](https://github.com/doitintl/ClusterCloner) copies Kubernetes cluster infrastructure between AWS, GCP, and Azure -- a reminder of how different the infrastructure layers are.
